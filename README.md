@@ -1,7 +1,7 @@
 # intertel_interview
 
 A sample flutter application intended for an interview with Intertel,
-with various functionality have been implement as required by the interviewer.
+with various functionality being implement as required by the interviewer.
 
 A demonstration of basic app layout and functionality with the following menus<br />
 
