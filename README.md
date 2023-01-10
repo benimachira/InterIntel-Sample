@@ -1,16 +1,15 @@
 # intertel_interview
 
-A new Flutter project.
+A sample flutter application intended for an interview with Intertel,
+with various functionality have been implement as required by the interviewer.
 
-## Getting Started
+A demonstration of basic app layout and functionality with the following menus<br />
 
-This project is a starting point for a Flutter application.
+Info - data input form with various fields as listed ,name ,email phonenumber<br />
+Design- a basic demonstration of pagelayout and simple animation<br />
+Response - fetching data from an api and displaying them in the app<br />
+Dictionary - Sorting a list maps and displaying them in a list.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
